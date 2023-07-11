@@ -121,3 +121,47 @@
     display: flex;
     margin-left: 150px;
 }
+.parent4{
+    display: flex;
+    margin-top: 90px;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(247, 240, 240);
+    height: 400px;
+}
+.img6{
+    width: 225px;
+}
+.box5{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding: 10px;
+    margin-left: 100px;
+}
+.box6{
+    margin-right: 200px;
+}
+.btn2{
+    margin-top: 20px;
+}
+.pink{
+    color: rgb(243, 81, 116);
+    font-size: 30px;
+}
+.hot{
+    font-size: 30px;
+}
+.joba{
+    width: 240px;
+}
+.parent5{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.j1{
+    margin-left: 160px;
+}
+.j4{
+    margin-right:160px;
+}
