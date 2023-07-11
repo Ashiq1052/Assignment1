@@ -102,3 +102,22 @@
     margin-left: 160px;
     margin-right: 160px;
 }
+.box4{
+    background-color: rgb(247, 240, 240);
+    margin-top: 100px;
+    width: 350px;
+    text-align: center;
+    height: 200px;
+}
+.p1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(101, 97, 97);
+}
+.img5{
+    width: 60px;
+    margin-top: 70px;
+}
+.parent3{
+    display: flex;
+    margin-left: 150px;
+}
