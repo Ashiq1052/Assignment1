@@ -165,3 +165,70 @@
 .j4{
     margin-right:160px;
 }
+
+.foot{
+    width: 100%;
+    height: 340px;
+    align-items: center;
+    margin-top: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    background-color: rgb(19, 19, 19);
+    text-align: center;
+    border: 2px solid black;
+}
+.foot-heading{
+    margin-top: 80px;
+}
+.footp{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: rgb(191, 190, 190);
+    font-size: 15px;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.footp2{
+    color: rgb(144, 142, 142);
+    font-size: 13px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.container{
+    margin-right: 160px;
+    margin-left: 160px;
+    height: 500px;
+    border: 2px solid rgb(255, 255, 255);
+    background: url(flower-pictures/Rectangle\ 9.png);
+    background-size: 100%;
+    background-repeat:no-repeat;
+    size: 50px;
+    background-position: center;
+}
+.final-h1{
+    text-align: center;
+    margin-top: 180px;
+    font-size: 30px;
+    color: rgb(16, 16, 16);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.finalp{
+    text-align: center;
+    margin-top: 10px;
+    color: rgb(143, 134, 134);
+}
+.last-div{
+    display: flex;
+    justify-content: center;
+}
+.in-put{
+    margin-top: 20px;
+    width: 500px;
+    height: 45px;
+    border: none;
+    border-radius: 5px;
+}
+.btnx{
+    margin-top: 22px;
+    margin-left: 6px;
+    height: 40px;
+}
