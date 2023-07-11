@@ -41,10 +41,64 @@
     color: rgb(38, 38, 38);
     text-align: center;
     margin-top: 100px;
+    font-weight: bolder;
+    font-size: 30px;
 }
 .second-paragraph{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: rgb(116, 115, 115);
     text-align: center;
     margin-top: 20px;
+}
+.img2{
+    width: 200px;
+    margin-top: 51px;
+    
+}
+.box1{
+    background-color: pink;
+    width: 300px;
+    height: 327px;
+    text-align:center;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+    margin-top: 50px;
+}
+.p{
+    text-decoration: underline;
+    margin-top: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(42, 41, 41);
+}
+.box2{
+    background-color: rgb(187, 221, 223);
+    width: 300px;
+    height: 327px;
+    text-align:center;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+    margin-top: 50px;
+}
+.img3{
+    width: 280px;
+    margin-top: 40px;
+}
+.img4{
+    width: 200px;
+    margin-top: 26px;
+}
+.box3{
+    background-color: rgb(194, 255, 234);
+    width: 300px;
+    height: 327px;
+    text-align:center;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+    margin-top: 50px;
+}
+.parent2{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 160px;
+    margin-right: 160px;
 }
